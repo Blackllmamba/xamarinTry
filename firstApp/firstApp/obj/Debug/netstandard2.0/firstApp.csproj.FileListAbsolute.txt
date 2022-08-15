@@ -1,0 +1,15 @@
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\bin\Debug\netstandard2.0\firstApp.deps.json
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\bin\Debug\netstandard2.0\firstApp.dll
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\bin\Debug\netstandard2.0\firstApp.pdb
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\firstApp.csproj.AssemblyReference.cache
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\firstApp.AssemblyInfo.cs
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\firstApp.dll
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\refint\firstApp.dll
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\firstApp.pdb
+C:\Users\aviat\source\repos\firstApp\firstApp\firstApp\obj\Debug\netstandard2.0\ref\firstApp.dll
